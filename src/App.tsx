@@ -9,7 +9,7 @@ const App = () => {
     <div>
       <p>learn react</p>
       <header>
-        <Menu defaultIndex={0}>
+        <Menu defaultIndex={'0'}>
           <MenuItem>cool link</MenuItem>
           <MenuItem>cool link</MenuItem>
           <SubMenu title='dropwdown'>
